@@ -12,7 +12,7 @@ b+樹為平衡多叉排序樹,只在葉子節點儲存數據,非葉子節點儲�
 <p>
 <div>References : </div>
 <ul>
-<li>R. P. Brent, Algorithms for Minimization without Derivatives, Prentice-Hall, Englewood Cliffs, New Jersey, 1973</li>
-<li>https://www.youtube.com/watch?v=BQm7uTYC0sg</li>
+<li>https://www.geeksforgeeks.org/introduction-of-b-tree/</li>
+<li>https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html</li>
 </ul>
 </p>
